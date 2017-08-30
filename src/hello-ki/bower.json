@@ -1,0 +1,25 @@
+{
+  "name": "zzang-app-ki",
+  "homepage": "https://github.com/songki523/zzang-app",
+  "authors": [
+    "Keith <kisuk.song@maryland.gov>"
+  ],
+  "description": "Church admin managing app",
+  "main": "index.html",
+  "keywords": [
+    "zzang",
+    "ki"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
